@@ -20,6 +20,15 @@ export const projectsData = [
     },
     {
         id: 2,
+        projectName: 'EduHome',
+        projectDesc: 'This project is a online Learning Platform for all types of Students.',
+        tags: ['MERN','ZegoCloud', 'JWT Token'],
+        code: 'https://github.com/LovkashGarg/EduHome-Full',
+        demo: 'https://drive.google.com/file/d/1IV915kswRdfJmp-g-JEjHQjvFch5OOZh/view',
+        image: two
+    },
+    {
+        id: 3,
         projectName: 'Trunc 8',
         projectDesc: 'A Application which crisps, Truncate url using NodeJs and short-id .',
         // projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
@@ -28,15 +37,7 @@ export const projectsData = [
         demo: 'https://trunc8.onrender.com/',
         image: one
     },
-    {
-        id: 3,
-        projectName: 'EduHome',
-        projectDesc: 'This project is a online Learning Platform for all types of Students.',
-        tags: ['MERN','ZegoCloud', 'JWT Token'],
-        code: 'https://github.com/LovkashGarg/EduHome-Full',
-        demo: 'https://drive.google.com/file/d/1IV915kswRdfJmp-g-JEjHQjvFch5OOZh/view',
-        image: two
-    },
+   
     
     // {
     //     id: 4,
