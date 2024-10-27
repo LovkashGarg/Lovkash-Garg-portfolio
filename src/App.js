@@ -1,7 +1,7 @@
 import React from 'react';
 // import { useContext } from 'react';
 import { BrowserRouter as Router, Route, Switch, Redirect } from 'react-router-dom';
-// import { Analytics } from "@vercel/analytics/react"
+import { inject } from '@vercel/analytics';
 // import { ThemeContext } from './contexts/ThemeContext';
 import { Main, ProjectPage } from './pages'
 import { BackToTop } from './components'
@@ -10,7 +10,7 @@ import ScrollToTop from './utils/ScrollToTop'
 import './App.css'
 
 function App() {
-
+  inject();
   // const { theme } = useContext(ThemeContext);
 
   // console.log("%cDEVELOPER PORTFOLIO", `color:${theme.primary}; font-size:50px`);
