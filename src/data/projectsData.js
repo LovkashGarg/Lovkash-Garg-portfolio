@@ -24,8 +24,8 @@ export const projectsData = [
         projectDesc: 'A Application which crisps, Truncate url using NodeJs and short-id .',
         // projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
         tags: ['React', 'Tailwind Css', 'Node Js'],
-        code: 'https://github.com/LovkashGarg',
-        demo: 'https://github.com/LovkashGarg',
+        code: 'https://github.com/LovkashGarg/Trunc8',
+        demo: 'https://trunc8.onrender.com/',
         image: one
     },
     {
@@ -33,8 +33,8 @@ export const projectsData = [
         projectName: 'EduHome',
         projectDesc: 'This project is a online Learning Platform for all types of Students.',
         tags: ['MERN','ZegoCloud', 'JWT Token'],
-        code: 'https://github.com/LovkashGarg',
-        demo: 'https://github.com/LovkashGarg',
+        code: 'https://github.com/LovkashGarg/EduHome-Full',
+        demo: 'https://drive.google.com/file/d/1IV915kswRdfJmp-g-JEjHQjvFch5OOZh/view',
         image: two
     },
     
@@ -52,8 +52,8 @@ export const projectsData = [
         projectName: 'Acoustic Guard',
         projectDesc: 'A application for security of user 24*7 at Home. ',
         tags: ['Librosa', 'Python'],
-        code: 'https://github.com/LovkashGarg',
-        demo: 'https://github.com/LovkashGarg',
+        code: 'https://github.com/LovkashGarg/Acoustic-Guard-security_check_system-',
+        demo: 'https://github.com/LovkashGarg/Acoustic-Guard-security_check_system-',
         image: five
     },
     // {
