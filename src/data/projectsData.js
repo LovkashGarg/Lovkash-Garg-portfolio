@@ -1,6 +1,6 @@
 import one from '../assets/svg/projects/one.svg'
 import two from '../assets/svg/projects/two.svg'
-// import three from '../assets/svg/projects/three.svg'
+import three from '../assets/svg/projects/image.png'
 // import four from '../assets/svg/projects/four.svg'
 import five from '../assets/svg/projects/five.svg'
 // import six from '../assets/svg/projects/six.svg'
@@ -14,30 +14,31 @@ export const projectsData = [
         id: 1,
         projectName: 'Esummit-2024',
         projectDesc: 'An Event Website where user can book tickets view event details.',
-        tags: ['Next JS', 'Mongo Atlas', 'Acertinity Ui'],
+        tags: ['Next.js', 'Mongo Atlas', 'Acertinity Ui'],
         code: 'https://github.com/LovkashGarg',
         demo: 'https://esummit24.iiitp.ac.in/',
         image: Esummit
     },
     {
         id: 2,
+        projectName: 'FusionSpace',
+        projectDesc: 'A Collabrative Workspace for all the teams which want to contribute and edit files in real-time in a synchronized way .',
+        // projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
+        tags: ['React.js', 'Socket.io', 'Node Js', 'Gen-AI'],
+        code: 'https://fusion-space.vercel.app/',
+        demo: 'https://fusion-space.vercel.app/',
+        image: three
+    },
+    {
+        id: 3,
         projectName: 'EduHome',
         projectDesc: 'This project is a online Learning Platform for all types of Students.',
-        tags: ['MERN','ZegoCloud', 'JWT Token'],
+        tags: ['Mern','ZegoCloud', 'JWT Token'],
         code: 'https://github.com/LovkashGarg/EduHome-Full',
         demo: 'https://drive.google.com/file/d/1IV915kswRdfJmp-g-JEjHQjvFch5OOZh/view',
         image: two
     },
-    {
-        id: 3,
-        projectName: 'Trunc 8',
-        projectDesc: 'A Application which crisps, Truncate url using NodeJs and short-id .',
-        // projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
-        tags: ['React', 'Tailwind Css', 'Node Js'],
-        code: 'https://github.com/LovkashGarg/Trunc8',
-        demo: 'https://trunc8.onrender.com/',
-        image: one
-    },
+    
    
     
     // {

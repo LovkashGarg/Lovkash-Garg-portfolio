@@ -1,8 +1,10 @@
 export const achievementData = {
+
     bio :[
-        { "achievement": "Finalist at BlueBit-Praxis Hackathon." },
-        { "achievement": "Solved over 300 problems on LeetCode and GFG." },
-        { "achievement": "Secured 3rd position at Intra-IIIT Poster Making Competition." }
+        { "achievement": "Reached a 3-star Rating at Codechef and Max Rating of (1749) Leetcode " },
+        { "achievement": "  Achieved a Global Rank of 543 out of 27,473 Participants in Biweekly Contest at Leetcode ." },
+        { "achievement": " Finalist at PRAXIS-2024 - BlueBit Hackathon with over 90 teams participating ." },
+        { "achievement": " Secured 3rd Position at Poster Making Competition Intra-IIIT Pune ." },
       ], 
     achievements : [
         {
