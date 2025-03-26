@@ -1,10 +1,11 @@
 export const achievementData = {
 
     bio :[
-        { "achievement": "Reached a 3-star Rating at Codechef and Max Rating of (1749) Leetcode " },
+        { "achievement": "Reached a 3-star Rating at Codechef and  Knight (1861) at Leetcode " },
         { "achievement": "  Achieved a Global Rank of 543 out of 27,473 Participants in Biweekly Contest at Leetcode ." },
         { "achievement": " Finalist at PRAXIS-2024 - BlueBit Hackathon with over 90 teams participating ." },
-        { "achievement": " Secured 3rd Position at Poster Making Competition Intra-IIIT Pune ." },
+        // { "achievement": " Secured 3rd Position at Poster Making Competition Intra-IIIT Pune ." },
+        { "achievement": " Selected as a Contributor for Open Source Projects in GSSOC 2024 ." },
       ], 
     achievements : [
         {

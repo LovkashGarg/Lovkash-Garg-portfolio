@@ -3,7 +3,7 @@ import { NavHashLink as NavLink } from 'react-router-hash-link';
 import Fade from 'react-reveal/Fade';
 import { IoMenuSharp, IoHomeSharp } from 'react-icons/io5';
 import { HiDocumentText } from 'react-icons/hi';
-import { BsFillGearFill } from 'react-icons/bs';
+// import { BsFillGearFill } from 'react-icons/bs';
 import { MdPhone } from 'react-icons/md';
 import { FaUser, FaFolderOpen } from 'react-icons/fa';
 import { makeStyles } from '@material-ui/core/styles';
@@ -13,7 +13,7 @@ import CloseIcon from '@material-ui/icons/Close';
 import './Navbar.css';
 import { headerData } from '../../data/headerData';
 import { ThemeContext } from '../../contexts/ThemeContext';
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 
 function Navbar() {
     const { theme, setHandleDrawer } = useContext(ThemeContext);
@@ -214,7 +214,7 @@ function Navbar() {
 
                         <Fade left>
                             <a
-                                href='https://drive.google.com/file/d/1vRiQOaSyKJwQagfxjX69jk1HR6Zmh8rR/view?usp=sharing'
+                                href='https://drive.google.com/file/d/1miOdVOl3eGQ7uQ8lt_BKb0B7bgfKMvpF/view?usp=sharing'
                                 smooth={true}
                                 spy='true'
                                 duration={2000}
