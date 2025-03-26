@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.6a6842be.chunk.css",
-    "main.js": "/static/js/main.f0802b39.chunk.js",
-    "main.js.map": "/static/js/main.f0802b39.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7a0d3e23.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7a0d3e23.js.map",
+    "main.js": "/static/js/main.03a43a5d.chunk.js",
+    "main.js.map": "/static/js/main.03a43a5d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b1c520c0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b1c520c0.js.map",
     "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
-    "static/js/2.c0c3bf45.chunk.js": "/static/js/2.c0c3bf45.chunk.js",
-    "static/js/2.c0c3bf45.chunk.js.map": "/static/js/2.c0c3bf45.chunk.js.map",
-    "static/js/3.3adc5a23.chunk.js": "/static/js/3.3adc5a23.chunk.js",
-    "static/js/3.3adc5a23.chunk.js.map": "/static/js/3.3adc5a23.chunk.js.map",
+    "static/js/2.a7e22a2c.chunk.js": "/static/js/2.a7e22a2c.chunk.js",
+    "static/js/2.a7e22a2c.chunk.js.map": "/static/js/2.a7e22a2c.chunk.js.map",
+    "static/js/3.06d7dced.chunk.js": "/static/js/3.06d7dced.chunk.js",
+    "static/js/3.06d7dced.chunk.js.map": "/static/js/3.06d7dced.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.19627560.chunk.css.map": "/static/css/2.19627560.chunk.css.map",
     "static/css/main.6a6842be.chunk.css.map": "/static/css/main.6a6842be.chunk.css.map",
-    "static/js/2.c0c3bf45.chunk.js.LICENSE.txt": "/static/js/2.c0c3bf45.chunk.js.LICENSE.txt",
+    "static/js/2.a7e22a2c.chunk.js.LICENSE.txt": "/static/js/2.a7e22a2c.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/LovkashGarg.2adf80a4.jpg": "/static/media/LovkashGarg.2adf80a4.jpg",
-    "static/media/Lovkash_garg_Resume.d4863c90.pdf": "/static/media/Lovkash_garg_Resume.d4863c90.pdf",
     "static/media/Lovkashg.99065083.jpg": "/static/media/Lovkashg.99065083.jpg",
+    "static/media/Resume_Lovkash_Garg.5656219e.pdf": "/static/media/Resume_Lovkash_Garg.5656219e.pdf",
     "static/media/aws.ef6fb669.svg": "/static/media/aws.ef6fb669.svg",
     "static/media/blueTheme-boy.b2f186cb.svg": "/static/media/blueTheme-boy.b2f186cb.svg",
     "static/media/blueTheme-girl.645cdd7e.svg": "/static/media/blueTheme-girl.645cdd7e.svg",
@@ -69,7 +69,6 @@
     "static/media/mysql.61d16d64.svg": "/static/media/mysql.61d16d64.svg",
     "static/media/nextJS.330fb71c.svg": "/static/media/nextJS.330fb71c.svg",
     "static/media/numpy.91d932ca.svg": "/static/media/numpy.91d932ca.svg",
-    "static/media/one.9ac983ad.svg": "/static/media/one.9ac983ad.svg",
     "static/media/orangeTheme-boy.cc7bd962.svg": "/static/media/orangeTheme-boy.cc7bd962.svg",
     "static/media/orangeTheme-girl.af6ec93a.svg": "/static/media/orangeTheme-girl.af6ec93a.svg",
     "static/media/pinkTheme-boy.dee5f707.svg": "/static/media/pinkTheme-boy.dee5f707.svg",
@@ -91,10 +90,10 @@
     "static/media/yellowTheme-girl.a7ec3ad5.svg": "/static/media/yellowTheme-girl.a7ec3ad5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7a0d3e23.js",
+    "static/js/runtime-main.b1c520c0.js",
     "static/css/2.19627560.chunk.css",
-    "static/js/2.c0c3bf45.chunk.js",
+    "static/js/2.a7e22a2c.chunk.js",
     "static/css/main.6a6842be.chunk.css",
-    "static/js/main.f0802b39.chunk.js"
+    "static/js/main.03a43a5d.chunk.js"
   ]
 }
