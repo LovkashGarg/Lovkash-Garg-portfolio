@@ -1,11 +1,13 @@
 export const achievementData = {
 
     bio :[
-        { "achievement": "Reached a 3-star Rating at Codechef and  Knight (1861) at Leetcode " },
-        { "achievement": "  Achieved a Global Rank of 543 out of 27,473 Participants in Biweekly Contest at Leetcode ." },
-        { "achievement": " Finalist at PRAXIS-2024 - BlueBit Hackathon with over 90 teams participating ." },
-        // { "achievement": " Secured 3rd Position at Poster Making Competition Intra-IIIT Pune ." },
-        { "achievement": " Selected as a Contributor for Open Source Projects in GSSOC 2024 ." },
+        
+ { "achievement": "Reached a 3-star Rating at CodeChef, Pupil at Codeforces, Knight (Top 5.5%) at LeetCode." },
+  { "achievement": "Solved 700+ coding challenges on platforms like LeetCode and GeeksforGeeks, focusing on data structures, algorithms, and optimization techniques." },
+  { "achievement": "Ranked in the Top 22 Teams out of 5000+ participants in the UBS Hackathon 2025." },
+  { "achievement": "Led team to Finalist position at PRAXIS-2024 BlueBit Hackathon (90+ teams)." },
+  { "achievement": "Achieved a Global Rank of 543 out of 27,473 participants in Biweekly Contest at LeetCode." },
+  { "achievement": "Selected as a Contributor for Open Source Projects in GSSOC 2024." }
       ], 
     achievements : [
         {
